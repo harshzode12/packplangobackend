@@ -13,7 +13,7 @@ import bookingRoutes from "./routes/bookingRoutes.js";
 import dealRoutes from "./routes/dealRoutes.js";
 import reviewRoutes from "./routes/reviewRoutes.js";
 import rewardRoutes from "./routes/rewardRoutes.js";
-import hotelRoutes from "./routes/hotelRoutes.js";
+import hotelRoutes from "./routes/hotel.routes.js";
 import touristPlaceRoutes from "./routes/touristPlaceRoutes.js";
 import packageDetailRoutes from "./routes/packageDetailRoutes.js";
 import categoryRoutes from "./routes/categoryRoutes.js";
